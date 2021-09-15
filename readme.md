@@ -1,5 +1,5 @@
 # **Morse code converter**
-## what is morse codde:
+## what is morse code:
 Morse code is a way of encrypting the text into a dot and a line. It is one of the old methods for secret message hiding. For more information on this read [here](https://en.wikipedia.org/wiki/Morse_code)  
 # Diagram for morse code used in the code
 ![diagram for morse](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/260px-International_Morse_Code.svg.png)
